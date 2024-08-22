@@ -1,0 +1,1046 @@
+[
+  {
+    "Player Name":"Mohammed Shami ",
+    "BATTING_STYLE":"Right hand Bat",
+    "BOWLING_STYLE":"Right arm Fast",
+    "PLAYING_ROLE":"Bowler"
+  },
+  {
+    "Player Name":"Mohammad Nawaz ",
+    "BATTING_STYLE":"Left hand Bat",
+    "BOWLING_STYLE":"Slow Left arm Orthodox",
+    "PLAYING_ROLE":"Allrounder"
+  },
+  {
+    "Player Name":"Naveen",
+    "BATTING_STYLE":"Right hand Bat",
+    "BOWLING_STYLE":"Right arm Medium fast",
+    "PLAYING_ROLE":"Bowler"
+  },
+  {
+    "Player Name":"Lahiru Kumara ",
+    "BATTING_STYLE":"Left hand Bat",
+    "BOWLING_STYLE":"Right arm Fast",
+    "PLAYING_ROLE":"Bowler"
+  },
+  {
+    "Player Name":"Ishan Kishan ",
+    "BATTING_STYLE":"Left hand Bat",
+    "BOWLING_STYLE":"Wicketkeeper",
+    "PLAYING_ROLE":"Wicketkeeper Batter"
+  },
+  {
+    "Player Name":"Chris Brown ",
+    "BATTING_STYLE":"Right hand Bat",
+    "BOWLING_STYLE":"Right arm Fast medium",
+    "PLAYING_ROLE":"Umpire"
+  },
+  {
+    "Player Name":"Maheesh Theekshana ",
+    "BATTING_STYLE":"Right hand Bat",
+    "BOWLING_STYLE":"Right arm Offbreak",
+    "PLAYING_ROLE":"Bowler"
+  },
+  {
+    "Player Name":"Kagiso Rabada ",
+    "BATTING_STYLE":"Left hand Bat",
+    "BOWLING_STYLE":"Right arm Fast",
+    "PLAYING_ROLE":"Bowler"
+  },
+  {
+    "Player Name":"Hashmatullah Shahidi ",
+    "BATTING_STYLE":"Hashmat Shaidi",
+    "BOWLING_STYLE":"Left hand Bat",
+    "PLAYING_ROLE":"Right arm Offbreak"
+  },
+  {
+    "Player Name":"Logan van Beek ",
+    "BATTING_STYLE":"Right hand Bat",
+    "BOWLING_STYLE":"Right arm Medium fast",
+    "PLAYING_ROLE":"Bowler"
+  },
+  {
+    "Player Name":"Wesley Barresi ",
+    "BATTING_STYLE":"Right hand Bat",
+    "BOWLING_STYLE":"Right arm Offbreak",
+    "PLAYING_ROLE":"Wicketkeeper"
+  },
+  {
+    "Player Name":"Babar Azam ",
+    "BATTING_STYLE":"Right hand Bat",
+    "BOWLING_STYLE":"Right arm Offbreak",
+    "PLAYING_ROLE":"Batter"
+  },
+  {
+    "Player Name":"Cameron Green ",
+    "BATTING_STYLE":"Right hand Bat",
+    "BOWLING_STYLE":"Right arm Fast medium",
+    "PLAYING_ROLE":"Batting Allrounder"
+  },
+  {
+    "Player Name":"Mitchell Santner ",
+    "BATTING_STYLE":"Left hand Bat",
+    "BOWLING_STYLE":"Slow Left arm Orthodox",
+    "PLAYING_ROLE":"Bowling Allrounder"
+  },
+  {
+    "Player Name":"Ravindra Jadeja ",
+    "BATTING_STYLE":"Left hand Bat",
+    "BOWLING_STYLE":"Slow Left arm Orthodox",
+    "PLAYING_ROLE":"Allrounder"
+  },
+  {
+    "Player Name":"Will Young ",
+    "BATTING_STYLE":"Right hand Bat",
+    "BOWLING_STYLE":"Right arm Offbreak",
+    "PLAYING_ROLE":"Top order Batter"
+  },
+  {
+    "Player Name":"Ravichandran Ashwin ",
+    "BATTING_STYLE":"Right hand Bat",
+    "BOWLING_STYLE":"Right arm Offbreak",
+    "PLAYING_ROLE":"Bowling Allrounder"
+  },
+  {
+    "Player Name":"Sybrand Engelbrecht ",
+    "BATTING_STYLE":"Right hand Bat",
+    "BOWLING_STYLE":"Right arm Offbreak",
+    "PLAYING_ROLE":"Allrounder"
+  },
+  {
+    "Player Name":"David Warner ",
+    "BATTING_STYLE":"Lloyd",
+    "BOWLING_STYLE":"Left hand Bat",
+    "PLAYING_ROLE":"Legbreak"
+  },
+  {
+    "Player Name":"Taskin Ahmed ",
+    "BATTING_STYLE":"Tazin",
+    "BOWLING_STYLE":"Left hand Bat",
+    "PLAYING_ROLE":"Right arm Fast"
+  },
+  {
+    "Player Name":"Pat Cummins ",
+    "BATTING_STYLE":"Cummo",
+    "BOWLING_STYLE":"Right hand Bat",
+    "PLAYING_ROLE":"Right arm Fast"
+  },
+  {
+    "Player Name":"Rahmanullah Gurbaz ",
+    "BATTING_STYLE":"Right hand Bat",
+    "BOWLING_STYLE":"Wicketkeeper",
+    "PLAYING_ROLE":"Wicketkeeper Batter"
+  },
+  {
+    "Player Name":"Ahsan Raza ",
+    "BATTING_STYLE":"Right hand Bat",
+    "BOWLING_STYLE":"Wicketkeeper",
+    "PLAYING_ROLE":"Umpire"
+  },
+  {
+    "Player Name":"Trent Boult ",
+    "BATTING_STYLE":"Right hand Bat",
+    "BOWLING_STYLE":"Left arm Fast medium",
+    "PLAYING_ROLE":"Bowler"
+  },
+  {
+    "Player Name":"Richard Illingworth ",
+    "BATTING_STYLE":"Right hand Bat",
+    "BOWLING_STYLE":"Slow Left arm Orthodox",
+    "PLAYING_ROLE":"Bowler"
+  },
+  {
+    "Player Name":"David Willey ",
+    "BATTING_STYLE":"Left hand Bat",
+    "BOWLING_STYLE":"Left arm Fast medium",
+    "PLAYING_ROLE":"Bowling Allrounder"
+  },
+  {
+    "Player Name":"Glenn Phillips ",
+    "BATTING_STYLE":"Right hand Bat",
+    "BOWLING_STYLE":"Right arm Offbreak",
+    "PLAYING_ROLE":"Wicketkeeper"
+  },
+  {
+    "Player Name":"Keshav Maharaj ",
+    "BATTING_STYLE":"Right hand Bat",
+    "BOWLING_STYLE":"Slow Left arm Orthodox",
+    "PLAYING_ROLE":"Bowler"
+  },
+  {
+    "Player Name":"Tim Southee ",
+    "BATTING_STYLE":"Right hand Bat",
+    "BOWLING_STYLE":"Right arm Medium fast",
+    "PLAYING_ROLE":"Bowler"
+  },
+  {
+    "Player Name":"Chamika Karunaratne ",
+    "BATTING_STYLE":"Right hand Bat",
+    "BOWLING_STYLE":"Right arm Medium fast",
+    "PLAYING_ROLE":"Bowling Allrounder"
+  },
+  {
+    "Player Name":"Saud Shakeel ",
+    "BATTING_STYLE":"Saud Shakil",
+    "BOWLING_STYLE":"Left hand Bat",
+    "PLAYING_ROLE":"Left arm Slow"
+  },
+  {
+    "Player Name":"Andy Pycroft ",
+    "BATTING_STYLE":"Right hand Bat",
+    "BOWLING_STYLE":"Right arm Offbreak",
+    "PLAYING_ROLE":"Referee, Coach"
+  },
+  {
+    "Player Name":"Mark Chapman ",
+    "BATTING_STYLE":"Left hand Bat",
+    "BOWLING_STYLE":"Slow Left arm Orthodox",
+    "PLAYING_ROLE":"Allrounder"
+  },
+  {
+    "Player Name":"Charith Asalanka ",
+    "BATTING_STYLE":"Left hand Bat",
+    "BOWLING_STYLE":"Right arm Offbreak",
+    "PLAYING_ROLE":"Batting Allrounder"
+  },
+  {
+    "Player Name":"Dunith Wellalage ",
+    "BATTING_STYLE":"Left hand Bat",
+    "BOWLING_STYLE":"Slow Left arm Orthodox",
+    "PLAYING_ROLE":"Bowler"
+  },
+  {
+    "Player Name":"Lockie Ferguson ",
+    "BATTING_STYLE":"Lockie",
+    "BOWLING_STYLE":"Right hand Bat",
+    "PLAYING_ROLE":"Right arm Fast"
+  },
+  {
+    "Player Name":"Praveen Sen ",
+    "BATTING_STYLE":"N\/A",
+    "BOWLING_STYLE":"N\/A",
+    "PLAYING_ROLE":"N\/A"
+  },
+  {
+    "Player Name":"Michael Gough ",
+    "BATTING_STYLE":"Right hand Bat",
+    "BOWLING_STYLE":"Right arm Offbreak",
+    "PLAYING_ROLE":"Umpire"
+  },
+  {
+    "Player Name":"Shaheen Shah Afridi ",
+    "BATTING_STYLE":"Left hand Bat",
+    "BOWLING_STYLE":"Left arm Fast",
+    "PLAYING_ROLE":"Bowler"
+  },
+  {
+    "Player Name":"Andile Phehlukwayo ",
+    "BATTING_STYLE":"Andy",
+    "BOWLING_STYLE":"Left hand Bat",
+    "PLAYING_ROLE":"Right arm Medium fast"
+  },
+  {
+    "Player Name":"Alex Wharf ",
+    "BATTING_STYLE":"Gangster",
+    "BOWLING_STYLE":"Right hand Bat",
+    "PLAYING_ROLE":"Right arm Medium fast"
+  },
+  {
+    "Player Name":"Travis Head ",
+    "BATTING_STYLE":"Left hand Bat",
+    "BOWLING_STYLE":"Right arm Offbreak",
+    "PLAYING_ROLE":"Wicketkeeper"
+  },
+  {
+    "Player Name":"Jeff Crowe ",
+    "BATTING_STYLE":"Right hand Bat",
+    "BOWLING_STYLE":"Right arm Bowler",
+    "PLAYING_ROLE":"Middle order Batter"
+  },
+  {
+    "Player Name":"Virat Kohli ",
+    "BATTING_STYLE":"Right hand Bat",
+    "BOWLING_STYLE":"Right arm Medium",
+    "PLAYING_ROLE":"Top order Batter"
+  },
+  {
+    "Player Name":"Jonny Bairstow ",
+    "BATTING_STYLE":"Bluey",
+    "BOWLING_STYLE":"Right hand Bat",
+    "PLAYING_ROLE":"Right arm Medium"
+  },
+  {
+    "Player Name":"Litton Das ",
+    "BATTING_STYLE":"Right hand Bat",
+    "BOWLING_STYLE":"Right arm Offbreak",
+    "PLAYING_ROLE":"Wicketkeeper"
+  },
+  {
+    "Player Name":"Joe Root ",
+    "BATTING_STYLE":"Right hand Bat",
+    "BOWLING_STYLE":"Right arm Offbreak, Legbreak",
+    "PLAYING_ROLE":"Top order Batter"
+  },
+  {
+    "Player Name":"Fazalhaq Farooqi ",
+    "BATTING_STYLE":"Right hand Bat",
+    "BOWLING_STYLE":"Left arm Fast medium",
+    "PLAYING_ROLE":"Bowler"
+  },
+  {
+    "Player Name":"Ben Stokes ",
+    "BATTING_STYLE":"Left hand Bat",
+    "BOWLING_STYLE":"Right arm Fast medium",
+    "PLAYING_ROLE":"Allrounder"
+  },
+  {
+    "Player Name":"Tanzid Hasan ",
+    "BATTING_STYLE":"Left hand Bat",
+    "BOWLING_STYLE":"Opening Batter",
+    "PLAYING_ROLE":"N\/A"
+  },
+  {
+    "Player Name":"Sean Abbott ",
+    "BATTING_STYLE":"Right hand Bat",
+    "BOWLING_STYLE":"Right arm Fast medium",
+    "PLAYING_ROLE":"Bowling Allrounder"
+  },
+  {
+    "Player Name":"Najibullah Zadran ",
+    "BATTING_STYLE":"Left hand Bat",
+    "BOWLING_STYLE":"Right arm Offbreak",
+    "PLAYING_ROLE":"Middle order Batter"
+  },
+  {
+    "Player Name":"Chris Gaffaney ",
+    "BATTING_STYLE":"Right hand Bat",
+    "BOWLING_STYLE":"Umpire",
+    "PLAYING_ROLE":"N\/A"
+  },
+  {
+    "Player Name":"Mujeeb Ur Rahman ",
+    "BATTING_STYLE":"Mujeeb Zadran",
+    "BOWLING_STYLE":"Right hand Bat",
+    "PLAYING_ROLE":"Right arm Offbreak"
+  },
+  {
+    "Player Name":"Saqib Zulfiqar ",
+    "BATTING_STYLE":"MS Zulfiqar",
+    "BOWLING_STYLE":"Right hand Bat",
+    "PLAYING_ROLE":"Legbreak"
+  },
+  {
+    "Player Name":"Lizaad Williams ",
+    "BATTING_STYLE":"Left hand Bat",
+    "BOWLING_STYLE":"Right arm Medium fast",
+    "PLAYING_ROLE":"Bowler"
+  },
+  {
+    "Player Name":"Max O'Dowd ",
+    "BATTING_STYLE":"Right hand Bat",
+    "BOWLING_STYLE":"Right arm Offbreak",
+    "PLAYING_ROLE":"Opening Batter"
+  },
+  {
+    "Player Name":"Matheesha Pathirana ",
+    "BATTING_STYLE":"Right hand Bat",
+    "BOWLING_STYLE":"Right arm Fast",
+    "PLAYING_ROLE":"Bowler"
+  },
+  {
+    "Player Name":"Paul van Meekeren ",
+    "BATTING_STYLE":"Right hand Bat",
+    "BOWLING_STYLE":"Right arm Fast medium",
+    "PLAYING_ROLE":"Bowler"
+  },
+  {
+    "Player Name":"Rachin Ravindra ",
+    "BATTING_STYLE":"Left hand Bat",
+    "BOWLING_STYLE":"Slow Left arm Orthodox",
+    "PLAYING_ROLE":"Batting Allrounder"
+  },
+  {
+    "Player Name":"James Neesham ",
+    "BATTING_STYLE":"Jimmy Neesham",
+    "BOWLING_STYLE":"Left hand Bat",
+    "PLAYING_ROLE":"Right arm Medium fast"
+  },
+  {
+    "Player Name":"Marcus Stoinis ",
+    "BATTING_STYLE":"Right hand Bat",
+    "BOWLING_STYLE":"Right arm Medium",
+    "PLAYING_ROLE":"Batting Allrounder"
+  },
+  {
+    "Player Name":"Alex Carey ",
+    "BATTING_STYLE":"Left hand Bat",
+    "BOWLING_STYLE":"Wicketkeeper",
+    "PLAYING_ROLE":"Wicketkeeper Batter"
+  },
+  {
+    "Player Name":"Ish Sodhi ",
+    "BATTING_STYLE":"Right hand Bat",
+    "BOWLING_STYLE":"Legbreak",
+    "PLAYING_ROLE":"Bowler"
+  },
+  {
+    "Player Name":"Vikramjit Singh ",
+    "BATTING_STYLE":"Left hand Bat",
+    "BOWLING_STYLE":"Right arm Medium",
+    "PLAYING_ROLE":"Opening Batter"
+  },
+  {
+    "Player Name":"Gerald Coetzee ",
+    "BATTING_STYLE":"Right hand Bat",
+    "BOWLING_STYLE":"Right arm Fast",
+    "PLAYING_ROLE":"Bowler"
+  },
+  {
+    "Player Name":"Joel Wilson ",
+    "BATTING_STYLE":"Umpire",
+    "BOWLING_STYLE":"N\/A",
+    "PLAYING_ROLE":"N\/A"
+  },
+  {
+    "Player Name":"Adrian Holdstock ",
+    "BATTING_STYLE":"Right hand Bat",
+    "BOWLING_STYLE":"Right arm Fast medium",
+    "PLAYING_ROLE":"Umpire"
+  },
+  {
+    "Player Name":"Dawid Malan ",
+    "BATTING_STYLE":"AC",
+    "BOWLING_STYLE":"Left hand Bat",
+    "PLAYING_ROLE":"Legbreak"
+  },
+  {
+    "Player Name":"Rahmat Shah ",
+    "BATTING_STYLE":"Right hand Bat",
+    "BOWLING_STYLE":"Legbreak Googly",
+    "PLAYING_ROLE":"Allrounder"
+  },
+  {
+    "Player Name":"Mushfiqur Rahim ",
+    "BATTING_STYLE":"Right hand Bat",
+    "BOWLING_STYLE":"Wicketkeeper",
+    "PLAYING_ROLE":"Wicketkeeper Batter"
+  },
+  {
+    "Player Name":"Kuldeep Yadav ",
+    "BATTING_STYLE":"Left hand Bat",
+    "BOWLING_STYLE":"Left arm Wrist spin",
+    "PLAYING_ROLE":"Bowler"
+  },
+  {
+    "Player Name":"Javagal Srinath ",
+    "BATTING_STYLE":"Right hand Bat",
+    "BOWLING_STYLE":"Right arm Fast medium",
+    "PLAYING_ROLE":"Bowler"
+  },
+  {
+    "Player Name":"Mitchell Starc ",
+    "BATTING_STYLE":"Left hand Bat",
+    "BOWLING_STYLE":"Left arm Fast",
+    "PLAYING_ROLE":"Bowler"
+  },
+  {
+    "Player Name":"Mohammad Rizwan ",
+    "BATTING_STYLE":"Right hand Bat",
+    "BOWLING_STYLE":"Wicketkeeper",
+    "PLAYING_ROLE":"Wicketkeeper Batter"
+  },
+  {
+    "Player Name":"Mark Wood ",
+    "BATTING_STYLE":"Right hand Bat",
+    "BOWLING_STYLE":"Right arm Fast",
+    "PLAYING_ROLE":"Bowler"
+  },
+  {
+    "Player Name":"Shariz Ahmad ",
+    "BATTING_STYLE":"Left hand Bat",
+    "BOWLING_STYLE":"Legbreak Googly",
+    "PLAYING_ROLE":"Bowler"
+  },
+  {
+    "Player Name":"Rod Tucker ",
+    "BATTING_STYLE":"Left hand Bat",
+    "BOWLING_STYLE":"Right arm Medium",
+    "PLAYING_ROLE":"N\/A"
+  },
+  {
+    "Player Name":"Shardul Thakur ",
+    "BATTING_STYLE":"Right hand Bat",
+    "BOWLING_STYLE":"Right arm Medium",
+    "PLAYING_ROLE":"Bowler"
+  },
+  {
+    "Player Name":"Scott Edwards ",
+    "BATTING_STYLE":"Right hand Bat",
+    "BOWLING_STYLE":"Wicketkeeper",
+    "PLAYING_ROLE":"Wicketkeeper Batter"
+  },
+  {
+    "Player Name":"Heinrich Klaasen ",
+    "BATTING_STYLE":"Right hand Bat",
+    "BOWLING_STYLE":"Right arm Offbreak",
+    "PLAYING_ROLE":"Wicketkeeper"
+  },
+  {
+    "Player Name":"Mohammad Nabi ",
+    "BATTING_STYLE":"Right hand Bat",
+    "BOWLING_STYLE":"Right arm Offbreak",
+    "PLAYING_ROLE":"Allrounder"
+  },
+  {
+    "Player Name":"Liam Livingstone ",
+    "BATTING_STYLE":"Right hand Bat",
+    "BOWLING_STYLE":"Right arm Offbreak, Legbreak",
+    "PLAYING_ROLE":"Batting Allrounder"
+  },
+  {
+    "Player Name":"Abdullah Shafique ",
+    "BATTING_STYLE":"Right hand Bat",
+    "BOWLING_STYLE":"Right arm Offbreak",
+    "PLAYING_ROLE":"Top order Batter"
+  },
+  {
+    "Player Name":"Richard Kettleborough ",
+    "BATTING_STYLE":"Ketts",
+    "BOWLING_STYLE":"Left hand Bat",
+    "PLAYING_ROLE":"Right arm Medium"
+  },
+  {
+    "Player Name":"Kasun Rajitha ",
+    "BATTING_STYLE":"Right hand Bat",
+    "BOWLING_STYLE":"Right arm Medium fast",
+    "PLAYING_ROLE":"Bowler"
+  },
+  {
+    "Player Name":"Suryakumar Yadav ",
+    "BATTING_STYLE":"Right hand Bat",
+    "BOWLING_STYLE":"Right arm Medium, Right arm Offbreak",
+    "PLAYING_ROLE":"Batter"
+  },
+  {
+    "Player Name":"Adam Zampa ",
+    "BATTING_STYLE":"Right hand Bat",
+    "BOWLING_STYLE":"Legbreak Googly",
+    "PLAYING_ROLE":"Bowler"
+  },
+  {
+    "Player Name":"Shadab Khan ",
+    "BATTING_STYLE":"Right hand Bat",
+    "BOWLING_STYLE":"Legbreak",
+    "PLAYING_ROLE":"Allrounder"
+  },
+  {
+    "Player Name":"Mustafizur Rahman ",
+    "BATTING_STYLE":"Left hand Bat",
+    "BOWLING_STYLE":"Left arm Fast medium",
+    "PLAYING_ROLE":"Bowler"
+  },
+  {
+    "Player Name":"Daryl Mitchell ",
+    "BATTING_STYLE":"Moose",
+    "BOWLING_STYLE":"Right hand Bat",
+    "PLAYING_ROLE":"Right arm Medium"
+  },
+  {
+    "Player Name":"Richie Richardson ",
+    "BATTING_STYLE":"Sir Richie Richardson",
+    "BOWLING_STYLE":"Right hand Bat",
+    "PLAYING_ROLE":"Right arm Medium"
+  },
+  {
+    "Player Name":"Nitin Menon ",
+    "BATTING_STYLE":"Right hand Bat",
+    "BOWLING_STYLE":"N\/A",
+    "PLAYING_ROLE":"Umpire"
+  },
+  {
+    "Player Name":"Temba Bavuma ",
+    "BATTING_STYLE":"Right hand Bat",
+    "BOWLING_STYLE":"Right arm Medium",
+    "PLAYING_ROLE":"Middle order Batter"
+  },
+  {
+    "Player Name":"Devon Conway ",
+    "BATTING_STYLE":"Left hand Bat",
+    "BOWLING_STYLE":"Right arm Medium",
+    "PLAYING_ROLE":"Occasional Wicketkeeper"
+  },
+  {
+    "Player Name":"Mohammed Siraj ",
+    "BATTING_STYLE":"Right hand Bat",
+    "BOWLING_STYLE":"Right arm Fast",
+    "PLAYING_ROLE":"Bowler"
+  },
+  {
+    "Player Name":"Angelo Mathews ",
+    "BATTING_STYLE":"Right hand Bat",
+    "BOWLING_STYLE":"Right arm Medium",
+    "PLAYING_ROLE":"Allrounder"
+  },
+  {
+    "Player Name":"Mitchell Marsh ",
+    "BATTING_STYLE":"Right hand Bat",
+    "BOWLING_STYLE":"Right arm Medium",
+    "PLAYING_ROLE":"Allrounder"
+  },
+  {
+    "Player Name":"Kusal Perera ",
+    "BATTING_STYLE":"Left hand Bat",
+    "BOWLING_STYLE":"Wicketkeeper",
+    "PLAYING_ROLE":"Wicketkeeper Batter"
+  },
+  {
+    "Player Name":"Aiden Markram ",
+    "BATTING_STYLE":"Right hand Bat",
+    "BOWLING_STYLE":"Right arm Offbreak",
+    "PLAYING_ROLE":"Opening Batter"
+  },
+  {
+    "Player Name":"Mahedi Hasan ",
+    "BATTING_STYLE":"Mahedi",
+    "BOWLING_STYLE":"Right hand Bat",
+    "PLAYING_ROLE":"Right arm Offbreak"
+  },
+  {
+    "Player Name":"Haris Rauf ",
+    "BATTING_STYLE":"Right hand Bat",
+    "BOWLING_STYLE":"Right arm Fast",
+    "PLAYING_ROLE":"Bowler"
+  },
+  {
+    "Player Name":"Jos Buttler ",
+    "BATTING_STYLE":"Right hand Bat",
+    "BOWLING_STYLE":"Wicketkeeper",
+    "PLAYING_ROLE":"Wicketkeeper Batter"
+  },
+  {
+    "Player Name":"Kumar Dharmasena ",
+    "BATTING_STYLE":"Right hand Bat",
+    "BOWLING_STYLE":"Right arm Offbreak",
+    "PLAYING_ROLE":"Allrounder"
+  },
+  {
+    "Player Name":"Towhid Hridoy ",
+    "BATTING_STYLE":"Right hand Bat",
+    "BOWLING_STYLE":"Right arm Offbreak",
+    "PLAYING_ROLE":"Top order Batter"
+  },
+  {
+    "Player Name":"Tabraiz Shamsi ",
+    "BATTING_STYLE":"Right hand Bat",
+    "BOWLING_STYLE":"Left arm Wrist spin",
+    "PLAYING_ROLE":"Bowler"
+  },
+  {
+    "Player Name":"Paul Reiffel ",
+    "BATTING_STYLE":"Pistol",
+    "BOWLING_STYLE":"Right hand Bat",
+    "PLAYING_ROLE":"Right arm Fast medium"
+  },
+  {
+    "Player Name":"Reece Topley ",
+    "BATTING_STYLE":"Right hand Bat",
+    "BOWLING_STYLE":"Left arm Fast medium",
+    "PLAYING_ROLE":"Bowler"
+  },
+  {
+    "Player Name":"Najmul Hossain Shanto ",
+    "BATTING_STYLE":"Left hand Bat",
+    "BOWLING_STYLE":"Right arm Offbreak",
+    "PLAYING_ROLE":"Top order Batter"
+  },
+  {
+    "Player Name":"Kane Williamson ",
+    "BATTING_STYLE":"Right hand Bat",
+    "BOWLING_STYLE":"Right arm Offbreak",
+    "PLAYING_ROLE":"Top order Batter"
+  },
+  {
+    "Player Name":"Ikram Alikhil ",
+    "BATTING_STYLE":"Left hand Bat",
+    "BOWLING_STYLE":"Wicketkeeper Batter",
+    "PLAYING_ROLE":"N\/A"
+  },
+  {
+    "Player Name":"Tom Latham ",
+    "BATTING_STYLE":"Left hand Bat",
+    "BOWLING_STYLE":"Right arm Medium",
+    "PLAYING_ROLE":"Wicketkeeper"
+  },
+  {
+    "Player Name":"Marais Erasmus ",
+    "BATTING_STYLE":"Right hand Bat",
+    "BOWLING_STYLE":"Right arm Fast medium",
+    "PLAYING_ROLE":"DF Malan High School, Paarl Teachers Training College, Stellenbosch University"
+  },
+  {
+    "Player Name":"David Miller ",
+    "BATTING_STYLE":"Left hand Bat",
+    "BOWLING_STYLE":"Right arm Offbreak",
+    "PLAYING_ROLE":"Middle order Batter"
+  },
+  {
+    "Player Name":"Steven Smith ",
+    "BATTING_STYLE":"Steve Smith",
+    "BOWLING_STYLE":"Right hand Bat",
+    "PLAYING_ROLE":"Legbreak Googly"
+  },
+  {
+    "Player Name":"Marnus Labuschagne ",
+    "BATTING_STYLE":"Right hand Bat",
+    "BOWLING_STYLE":"Legbreak",
+    "PLAYING_ROLE":"Batter"
+  },
+  {
+    "Player Name":"Josh Inglis ",
+    "BATTING_STYLE":"Right hand Bat",
+    "BOWLING_STYLE":"Wicketkeeper",
+    "PLAYING_ROLE":"Wicketkeeper Batter"
+  },
+  {
+    "Player Name":"Dilshan Madushanka ",
+    "BATTING_STYLE":"Right hand Bat",
+    "BOWLING_STYLE":"Left arm Fast medium",
+    "PLAYING_ROLE":"Bowler"
+  },
+  {
+    "Player Name":"Mohammad Wasim ",
+    "BATTING_STYLE":"Right hand Bat",
+    "BOWLING_STYLE":"Right arm Fast medium",
+    "PLAYING_ROLE":"Bowling Allrounder"
+  },
+  {
+    "Player Name":"Dushan Hemantha ",
+    "BATTING_STYLE":"Right hand Bat",
+    "BOWLING_STYLE":"Legbreak",
+    "PLAYING_ROLE":"Allrounder"
+  },
+  {
+    "Player Name":"Iftikhar Ahmed ",
+    "BATTING_STYLE":"Right hand Bat",
+    "BOWLING_STYLE":"Right arm Offbreak",
+    "PLAYING_ROLE":"Middle order Batter"
+  },
+  {
+    "Player Name":"Pathum Nissanka ",
+    "BATTING_STYLE":"Right hand Bat",
+    "BOWLING_STYLE":"Top order Batter",
+    "PLAYING_ROLE":"Isipathana College, Colombo"
+  },
+  {
+    "Player Name":"Lungi Ngidi ",
+    "BATTING_STYLE":"Right hand Bat",
+    "BOWLING_STYLE":"Right arm Fast medium",
+    "PLAYING_ROLE":"Bowler"
+  },
+  {
+    "Player Name":"Rashid Khan ",
+    "BATTING_STYLE":"Right hand Bat",
+    "BOWLING_STYLE":"Legbreak Googly",
+    "PLAYING_ROLE":"Bowling Allrounder"
+  },
+  {
+    "Player Name":"Moeen Ali ",
+    "BATTING_STYLE":"Moe",
+    "BOWLING_STYLE":"Left hand Bat",
+    "PLAYING_ROLE":"Right arm Offbreak"
+  },
+  {
+    "Player Name":"Kusal Mendis ",
+    "BATTING_STYLE":"Right hand Bat",
+    "BOWLING_STYLE":"Legbreak",
+    "PLAYING_ROLE":"Wicketkeeper"
+  },
+  {
+    "Player Name":"Jasprit Bumrah ",
+    "BATTING_STYLE":"Right hand Bat",
+    "BOWLING_STYLE":"Right arm Fast",
+    "PLAYING_ROLE":"Bowler"
+  },
+  {
+    "Player Name":"Josh Hazlewood ",
+    "BATTING_STYLE":"Left hand Bat",
+    "BOWLING_STYLE":"Right arm Fast medium",
+    "PLAYING_ROLE":"Bowler"
+  },
+  {
+    "Player Name":"Dasun Shanaka ",
+    "BATTING_STYLE":"Right hand Bat",
+    "BOWLING_STYLE":"Right arm Medium",
+    "PLAYING_ROLE":"Allrounder"
+  },
+  {
+    "Player Name":"Marco Jansen ",
+    "BATTING_STYLE":"Right hand Bat",
+    "BOWLING_STYLE":"Left arm Medium fast",
+    "PLAYING_ROLE":"Bowling Allrounder"
+  },
+  {
+    "Player Name":"Azmatullah Omarzai ",
+    "BATTING_STYLE":"Right hand Bat",
+    "BOWLING_STYLE":"Right arm Medium fast",
+    "PLAYING_ROLE":"Allrounder"
+  },
+  {
+    "Player Name":"Sadeera Samarawickrama ",
+    "BATTING_STYLE":"Right hand Bat",
+    "BOWLING_STYLE":"Wicketkeeper",
+    "PLAYING_ROLE":"Wicketkeeper Batter"
+  },
+  {
+    "Player Name":"Hardik Pandya ",
+    "BATTING_STYLE":"Right hand Bat",
+    "BOWLING_STYLE":"Right arm Medium fast",
+    "PLAYING_ROLE":"Allrounder"
+  },
+  {
+    "Player Name":"Colin Ackermann ",
+    "BATTING_STYLE":"Ackers",
+    "BOWLING_STYLE":"Right hand Bat",
+    "PLAYING_ROLE":"Right arm Offbreak"
+  },
+  {
+    "Player Name":"Nasum Ahmed ",
+    "BATTING_STYLE":"Left hand Bat",
+    "BOWLING_STYLE":"Slow Left arm Orthodox",
+    "PLAYING_ROLE":"Bowler"
+  },
+  {
+    "Player Name":"Glenn Maxwell ",
+    "BATTING_STYLE":"Right hand Bat",
+    "BOWLING_STYLE":"Right arm Offbreak",
+    "PLAYING_ROLE":"Batting Allrounder"
+  },
+  {
+    "Player Name":"Noor Ahmad ",
+    "BATTING_STYLE":"Right hand Bat",
+    "BOWLING_STYLE":"Left arm Wrist spin",
+    "PLAYING_ROLE":"Bowler"
+  },
+  {
+    "Player Name":"Adil Rashid ",
+    "BATTING_STYLE":"Dilly, Hoover",
+    "BOWLING_STYLE":"Right hand Bat",
+    "PLAYING_ROLE":"Legbreak"
+  },
+  {
+    "Player Name":"Shakib Al Hasan ",
+    "BATTING_STYLE":"Saqibul Hasan",
+    "BOWLING_STYLE":"Left hand Bat",
+    "PLAYING_ROLE":"Slow Left arm Orthodox"
+  },
+  {
+    "Player Name":"KL Rahul ",
+    "BATTING_STYLE":"Right hand Bat",
+    "BOWLING_STYLE":"Wicketkeeper",
+    "PLAYING_ROLE":"Wicketkeeper Batter"
+  },
+  {
+    "Player Name":"Tanzim Hasan Sakib ",
+    "BATTING_STYLE":"Right hand Bat",
+    "BOWLING_STYLE":"Right arm Medium",
+    "PLAYING_ROLE":"Bowler"
+  },
+  {
+    "Player Name":"Sam Curran ",
+    "BATTING_STYLE":"Left hand Bat",
+    "BOWLING_STYLE":"Left arm Medium fast",
+    "PLAYING_ROLE":"Allrounder"
+  },
+  {
+    "Player Name":"Dimuth Karunaratne ",
+    "BATTING_STYLE":"Left hand Bat",
+    "BOWLING_STYLE":"Right arm Medium",
+    "PLAYING_ROLE":"Opening Batter"
+  },
+  {
+    "Player Name":"Mehidy Hasan Miraz ",
+    "BATTING_STYLE":"Miraz",
+    "BOWLING_STYLE":"Right hand Bat",
+    "PLAYING_ROLE":"Right arm Offbreak"
+  },
+  {
+    "Player Name":"Fakhar Zaman ",
+    "BATTING_STYLE":"Left hand Bat",
+    "BOWLING_STYLE":"Slow Left arm Orthodox",
+    "PLAYING_ROLE":"Opening Batter"
+  },
+  {
+    "Player Name":"Shoriful Islam ",
+    "BATTING_STYLE":"Left hand Bat",
+    "BOWLING_STYLE":"Left arm Medium fast",
+    "PLAYING_ROLE":"Bowler"
+  },
+  {
+    "Player Name":"Roelof van der Merwe ",
+    "BATTING_STYLE":"Roela, Bulldog",
+    "BOWLING_STYLE":"Right hand Bat",
+    "PLAYING_ROLE":"Slow Left arm Orthodox"
+  },
+  {
+    "Player Name":"Rohit Sharma ",
+    "BATTING_STYLE":"Right hand Bat",
+    "BOWLING_STYLE":"Right arm Offbreak",
+    "PLAYING_ROLE":"Top order Batter"
+  },
+  {
+    "Player Name":"Quinton de Kock ",
+    "BATTING_STYLE":"Left hand Bat",
+    "BOWLING_STYLE":"Wicketkeeper",
+    "PLAYING_ROLE":"Wicketkeeper Batter"
+  },
+  {
+    "Player Name":"Paul Wilson ",
+    "BATTING_STYLE":"Right hand Bat",
+    "BOWLING_STYLE":"Right arm Fast medium",
+    "PLAYING_ROLE":"Umpire, Coach"
+  },
+  {
+    "Player Name":"Hasan Mahmud ",
+    "BATTING_STYLE":"Right hand Bat",
+    "BOWLING_STYLE":"Right arm Fast medium",
+    "PLAYING_ROLE":"Bowler"
+  },
+  {
+    "Player Name":"Hasan Ali ",
+    "BATTING_STYLE":"Right hand Bat",
+    "BOWLING_STYLE":"Right arm Medium fast",
+    "PLAYING_ROLE":"Bowler"
+  },
+  {
+    "Player Name":"Harry Brook ",
+    "BATTING_STYLE":"Right hand Bat",
+    "BOWLING_STYLE":"Right arm Medium",
+    "PLAYING_ROLE":"Batter"
+  },
+  {
+    "Player Name":"Mahmudullah ",
+    "BATTING_STYLE":"Riyad",
+    "BOWLING_STYLE":"Right hand Bat",
+    "PLAYING_ROLE":"Right arm Offbreak"
+  },
+  {
+    "Player Name":"Shreyas Iyer ",
+    "BATTING_STYLE":"Right hand Bat",
+    "BOWLING_STYLE":"Right arm Offbreak, Legbreak Googly",
+    "PLAYING_ROLE":"Top order Batter"
+  },
+  {
+    "Player Name":"Sharfuddoula ",
+    "BATTING_STYLE":"Left hand Bat",
+    "BOWLING_STYLE":"Slow Left arm Orthodox",
+    "PLAYING_ROLE":"Umpire"
+  },
+  {
+    "Player Name":"Chris Woakes ",
+    "BATTING_STYLE":"Right hand Bat",
+    "BOWLING_STYLE":"Right arm Fast medium",
+    "PLAYING_ROLE":"Allrounder"
+  },
+  {
+    "Player Name":"Ryan Klein ",
+    "BATTING_STYLE":"Right hand Bat",
+    "BOWLING_STYLE":"Right arm Medium fast",
+    "PLAYING_ROLE":"Bowler"
+  },
+  {
+    "Player Name":"Rassie van der Dussen ",
+    "BATTING_STYLE":"Right hand Bat",
+    "BOWLING_STYLE":"Legbreak",
+    "PLAYING_ROLE":"Top order Batter"
+  },
+  {
+    "Player Name":"Reeza Hendricks ",
+    "BATTING_STYLE":"Right hand Bat",
+    "BOWLING_STYLE":"Right arm Offbreak",
+    "PLAYING_ROLE":"Opening Batter"
+  },
+  {
+    "Player Name":"Aryan Dutt ",
+    "BATTING_STYLE":"Right hand Bat",
+    "BOWLING_STYLE":"Right arm Offbreak",
+    "PLAYING_ROLE":"Bowler"
+  },
+  {
+    "Player Name":"KN Ananthapadmanabhan ",
+    "BATTING_STYLE":"Right hand Bat",
+    "BOWLING_STYLE":"Legbreak Googly",
+    "PLAYING_ROLE":"Umpire"
+  },
+  {
+    "Player Name":"Dhananjaya de Silva ",
+    "BATTING_STYLE":"Right hand Bat",
+    "BOWLING_STYLE":"Right arm Offbreak",
+    "PLAYING_ROLE":"Allrounder"
+  },
+  {
+    "Player Name":"Shubman Gill ",
+    "BATTING_STYLE":"Right hand Bat",
+    "BOWLING_STYLE":"Right arm Offbreak",
+    "PLAYING_ROLE":"Opening Batter"
+  },
+  {
+    "Player Name":"Bas de Leede ",
+    "BATTING_STYLE":"Right hand Bat",
+    "BOWLING_STYLE":"Right arm Fast medium",
+    "PLAYING_ROLE":"Batting Allrounder"
+  },
+  {
+    "Player Name":"Teja Nidamanuru ",
+    "BATTING_STYLE":"Right hand Bat",
+    "BOWLING_STYLE":"Right arm Offbreak",
+    "PLAYING_ROLE":"Allrounder"
+  },
+  {
+    "Player Name":"Gus Atkinson ",
+    "BATTING_STYLE":"Right hand Bat",
+    "BOWLING_STYLE":"Right arm Fast medium",
+    "PLAYING_ROLE":"Bowler"
+  },
+  {
+    "Player Name":"Dushmantha Chameera ",
+    "BATTING_STYLE":"Right hand Bat",
+    "BOWLING_STYLE":"Right arm Fast",
+    "PLAYING_ROLE":"Bowler"
+  },
+  {
+    "Player Name":"Jayaraman Madanagopal ",
+    "BATTING_STYLE":"Right hand Bat",
+    "BOWLING_STYLE":"Right arm Offbreak",
+    "PLAYING_ROLE":"N\/A"
+  },
+  {
+    "Player Name":"Agha Salman ",
+    "BATTING_STYLE":"Right hand Bat",
+    "BOWLING_STYLE":"Right arm Offbreak",
+    "PLAYING_ROLE":"Allrounder"
+  },
+  {
+    "Player Name":"Imam",
+    "BATTING_STYLE":"Left hand Bat",
+    "BOWLING_STYLE":"Top order Batter",
+    "PLAYING_ROLE":"N\/A"
+  },
+  {
+    "Player Name":"Usama Mir ",
+    "BATTING_STYLE":"Right hand Bat",
+    "BOWLING_STYLE":"Legbreak",
+    "PLAYING_ROLE":"Bowler"
+  },
+  {
+    "Player Name":"Ibrahim Zadran ",
+    "BATTING_STYLE":"Right hand Bat",
+    "BOWLING_STYLE":"Right arm Medium fast",
+    "PLAYING_ROLE":"Opening Batter"
+  },
+  {
+    "Player Name":"Matt Henry ",
+    "BATTING_STYLE":"Right hand Bat",
+    "BOWLING_STYLE":"Right arm Fast medium",
+    "PLAYING_ROLE":"Bowler"
+  }
+]
